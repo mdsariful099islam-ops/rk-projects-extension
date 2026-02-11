@@ -1,5 +1,9 @@
 # 🚀 RK Projects - AI Prompt Generator
 
+## 📸 Preview
+
+![RK Projects Preview](screenshot.png)
+
 RK Projects is a powerful Chrome extension that allows users to right-click any image and instantly generate a professional AI-style prompt.
 
 ---
