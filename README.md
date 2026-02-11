@@ -90,4 +90,4 @@ Created by **RK Projects**
 
 ## 📸 Preview
 
-![RK Projects Preview](preview.png)
+![RK Projects Preview](screenshot.png)
